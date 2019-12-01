@@ -1,0 +1,31 @@
+2019-10-28 00:22:51,743 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2019-10-28 00:22:51,794 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-10-28 00:22:51,795 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-10-28 00:22:51,796 INFO o.a.j.JMeter: Setting System property: server_port=1099
+2019-10-28 00:22:51,803 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-10-28 00:22:51,803 INFO o.a.j.JMeter: Version 5.0 r1840935
+2019-10-28 00:22:51,804 INFO o.a.j.JMeter: java.version=1.8.0_161
+2019-10-28 00:22:51,804 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-10-28 00:22:51,804 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-10-28 00:22:51,804 INFO o.a.j.JMeter: os.arch=x86_64
+2019-10-28 00:22:51,804 INFO o.a.j.JMeter: os.version=10.14.5
+2019-10-28 00:22:51,804 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-10-28 00:22:51,804 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-10-28 00:22:51,804 INFO o.a.j.JMeter: Available Processors =4
+2019-10-28 00:22:51,810 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-10-28 00:22:51,810 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2019-10-28 00:22:51,810 INFO o.a.j.JMeter: JMeterHome=/Users/xinxi/Documents/jmeter/apache-jmeter-5.0
+2019-10-28 00:22:51,810 INFO o.a.j.JMeter: user.dir  =/Users/xinxi/Documents/jmeter/apache-jmeter-5.0/bin
+2019-10-28 00:22:51,811 INFO o.a.j.JMeter: PWD       =/Users/xinxi/Documents/jmeter/apache-jmeter-5.0/bin
+2019-10-28 00:22:51,812 INFO o.a.j.JMeter: IP: 192.168.153.197 Name: bogon FullName: bogon
+2019-10-28 00:22:51,822 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2019-10-28 00:22:51,822 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2019-10-28 00:22:51,866 INFO o.a.j.e.RemoteJMeterEngineImpl: Starting backing engine on 1099
+2019-10-28 00:22:51,866 INFO o.a.j.r.RmiUtils: System property 'java.rmi.server.hostname' is not defined, using localHost address
+2019-10-28 00:22:51,866 INFO o.a.j.r.RmiUtils: Local IP address=192.168.153.197
+2019-10-28 00:22:51,866 INFO o.a.j.e.RemoteJMeterEngineImpl: IP address is a site-local address; this may cause problems with remote access.
+	Can be overridden by defining the system property 'java.rmi.server.hostname' - see jmeter-server script file
+2019-10-28 00:22:51,866 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating RMI registry (server.rmi.create=true)
+2019-10-28 00:22:51,866 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2019-10-28 00:22:51,866 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2019-10-28 00:22:51,868 INFO o.a.j.e.RemoteJMeterEngineImpl: Bound to RMI registry on port 1099
